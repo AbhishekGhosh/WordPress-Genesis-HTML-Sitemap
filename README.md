@@ -9,9 +9,11 @@ WordPress Genesis Custom PHP-HTML archive template with responsive CSS columns f
 
 ## How To Use?
 
-Place [page_archive.php](https://github.com/AbhishekGhosh/WordPress-Genesis-HTML-Sitemap/blob/master/page_archive.php) `wp-content/themes/your-theme-in-use`. Create a Page named `archive` or `sitemap`, choose `Sitemap` as template from WordPress Editor's `Page Attributes` > `Template` > [Dropdown] > `Sitemap`. Save and publish the Page. Thats it.
+Place [page_archive.php](https://github.com/AbhishekGhosh/WordPress-Genesis-HTML-Sitemap/blob/master/page_archive.php) `wp-content/themes/your-theme-in-use`. Create a Page named `archive` or `sitemap`, choose `Sitemap` as template from WordPress Editor's `Page Attributes` > `Template` > [Dropdown] > `Sitemap`. 
 
 ![Select Template] (https://github.com/AbhishekGhosh/WordPress-Genesis-HTML-Sitemap/raw/master/shot-1.png "Select Template")
+
+Save and publish the Page. Thats it.
 
 ## How To Edit it?
 
