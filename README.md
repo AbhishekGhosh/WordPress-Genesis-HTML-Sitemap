@@ -1,0 +1,1 @@
+# WordPress-Genesis-HTML-Sitemap
