@@ -15,6 +15,10 @@ Place [page_archive.php](https://github.com/AbhishekGhosh/WordPress-Genesis-HTML
 
 Save and publish the Page. Thats it.
 
+## Only 100 Last Posts and Link to Archives and Pages? No Paginated List of All Posts?
+
+It is dangerous work for websites with over 5000 posts to add such. Everytime you publish a post, the stuff will run SQL to list all freshly. It is not practical to scroll a list of 5000 URLs. In fact, category, tags do that work. In short - we are offering a lollilop to the Google bots. We are forcing Google bots to crawl the monthly archives. 
+
 ## How To Edit it?
 
 You can edit to add PHP, HTML. Add some text with `<p> </p>` after this part :
