@@ -1,8 +1,10 @@
 # WordPress Genesis HTML Sitemap
 
-WordPress Genesis Custom PHP-HTML archive template with responsive CSS columns for using as sitemap. [Live demo of sitemap in action](https://thecustomizewindows.com/sitemap/). It is plain HTML link, no Javascript, no CSS. All CSS are inline.
+WordPress Genesis Custom PHP-HTML archive template with responsive CSS columns for using as sitemap. Here is a partial screenshot :
 
 ![WordPress Genesis HTML Sitemap] (https://github.com/AbhishekGhosh/WordPress-Genesis-HTML-Sitemap/raw/master/shot-2.png "WordPress Genesis HTML Sitemap")
+
+[Live demo of sitemap in action](https://thecustomizewindows.com/sitemap/). It is plain HTML & PHP with incline CSS, no Javascript call, no CSS call. 
 
 + Moved odd stuffs of default StudioPress Genesis archive pages towards bottom like Author-named archive.
 + Added RSS Feed
