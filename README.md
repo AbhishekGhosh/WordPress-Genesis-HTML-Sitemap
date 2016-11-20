@@ -13,7 +13,7 @@ Place [page_archive.php](https://github.com/AbhishekGhosh/WordPress-Genesis-HTML
 
 ## How To Edit it?
 
-I do not know. Your file, you'll edit. Add some text with `<p> </p>` after this part :
+You can edit to add PHP, HTML. Add some text with `<p> </p>` after this part :
 
     function genesis_page_archive_content() { ?>
     <?php echo genesis_html5() ? '<article>' : '<div>'; ?>
